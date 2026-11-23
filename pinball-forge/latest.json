@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "versionCode": 14,
-  "apk": "pinball-forge-2.7.0.apk",
-  "sha256": "68b8b07078f523b546c1ad962047bc931aefc5167bf2c1a53cb6c7038cf0354c",
-  "sizeBytes": 46718189
+  "version": "2.8.0",
+  "versionCode": 15,
+  "apk": "pinball-forge-2.8.0.apk",
+  "sha256": "d22514df34456937b09affbc2dbd06d94eab38e7f7bc80150ede78f3fe8c8216",
+  "sizeBytes": 48144787
 }
