@@ -1,8 +1,8 @@
 {
-  "version": "2.13.1",
-  "versionCode": 27,
-  "apk": "pinball-forge-2.13.1.apk",
-  "sha256": "c51d59f92e125e8bdef60793e56dd57f6ce29d7118cdee54324ccad5a63968ae",
+  "version": "2.13.2",
+  "versionCode": 28,
+  "apk": "pinball-forge-2.13.2.apk",
+  "sha256": "6a03b7ad547d76aab988a0b642c71d3fd54eded5b3e49262a7be88fb713ce3ec",
   "sizeBytes": 35759964,
-  "notes": "Forge table gets a real 3D-rendered background: anvil, crucible and furnace glow with ember sparks, rendered in Blender and shaded for playfield readability. Smaller download - unused art removed from the pack."
+  "notes": "Fix: Android update popup now works - the app gained INTERNET permission so it can check for new versions. One manual install of this APK is needed; after that, updates arrive as an in-game popup."
 }
