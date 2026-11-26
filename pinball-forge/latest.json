@@ -1,8 +1,9 @@
 {
-  "version": "2.13.2",
-  "versionCode": 28,
-  "apk": "pinball-forge-2.13.2.apk",
-  "sha256": "6a03b7ad547d76aab988a0b642c71d3fd54eded5b3e49262a7be88fb713ce3ec",
-  "sizeBytes": 35759964,
-  "notes": "Fix: Android update popup now works - the app gained INTERNET permission so it can check for new versions. One manual install of this APK is needed; after that, updates arrive as an in-game popup."
+  "game": "pinball-forge",
+  "version": "2.14.0",
+  "versionCode": 29,
+  "apk": "pinball-forge-2.14.0.apk",
+  "sha256": "98835c087bdd968de92e73b93a7961c89c31a9d46c77b0c6c0b2f26fb5de960d",
+  "sizeBytes": 35776348,
+  "notes": "v2.14.0 - Fixed the constant screen shaking: nudges are now a quick short jolt instead of a 3-second tremor, plus a SCREEN SHAKE on/off toggle in OPTIONS. Ambient forge embers drift across the table. Android updates now happen INSIDE the game: tap UPDATE NOW and the new version downloads with a progress bar, verifies its checksum and opens the Android install prompt - no browser needed."
 }
