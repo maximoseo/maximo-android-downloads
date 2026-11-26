@@ -1,8 +1,8 @@
 {
-  "version": "2.12.1",
-  "versionCode": 22,
-  "apk": "pinball-forge-2.12.1.apk",
-  "sha256": "5fe94328bb58835c5bb9807edf1696f6f161559acc8013946b30d4e7e6d7b01d",
-  "sizeBytes": 51225907,
-  "notes": "New: top rollover lanes + bonus multiplier, left spinner, orbit lanes, ramp shot, mystery gold star, forge chain combos, skill shot. New chrome ball + gold star art. Updates arrive as an in-game popup - one tap, no APK reinstall on web."
+  "version": "2.12.2",
+  "versionCode": 23,
+  "apk": "pinball-forge-2.12.2.apk",
+  "sha256": "f4f23973612bca045b9644e4bf3e548a38bb27368db71734d113d9d920433b28",
+  "sizeBytes": 51234099,
+  "notes": "New: rollover lanes + bonus multiplier, spinner, orbit lanes, ramp shot, mystery gold star, forge chain, skill shot. Chrome ball + gold star art. Cleaner HUD + logo. Updates arrive as an in-game popup - one tap, no APK reinstall on web."
 }
