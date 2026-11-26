@@ -1,8 +1,8 @@
 {
-  "version": "2.12.4",
-  "versionCode": 25,
-  "apk": "pinball-forge-2.12.4.apk",
-  "sha256": "088c1f1366dd80e48b5225ad56ef8f1cb5a798d77de200bc14d94ece306987e4",
+  "version": "2.13.0",
+  "versionCode": 26,
+  "apk": "pinball-forge-2.13.0.apk",
+  "sha256": "c366eaa76b5a6c5593f9381c44f3c27f967ed1523e9e73d52cf7e565b47be4a6",
   "sizeBytes": 51881456,
-  "notes": "New Android app icon (chrome ball + gold bolt). Rollover lanes, spinner, orbits, ramp, mystery star, forge chain, skill shot. Updates arrive as an in-game popup - one tap, no APK reinstall on web."
+  "notes": "Anti-drain update: 12s ball-save on every launch, dual outlane kickbacks, longer flipper reach (gap 54->38px), gentler gravity, stronger flippers and slings. Neon glow graphics upgrade. Updates arrive as an in-game popup - one tap, no APK reinstall on web."
 }
