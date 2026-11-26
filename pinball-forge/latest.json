@@ -1,8 +1,8 @@
 {
-  "version": "2.13.0",
-  "versionCode": 26,
-  "apk": "pinball-forge-2.13.0.apk",
-  "sha256": "c366eaa76b5a6c5593f9381c44f3c27f967ed1523e9e73d52cf7e565b47be4a6",
-  "sizeBytes": 51881456,
-  "notes": "Anti-drain update: 12s ball-save on every launch, dual outlane kickbacks, longer flipper reach (gap 54->38px), gentler gravity, stronger flippers and slings. Neon glow graphics upgrade. Updates arrive as an in-game popup - one tap, no APK reinstall on web."
+  "version": "2.13.1",
+  "versionCode": 27,
+  "apk": "pinball-forge-2.13.1.apk",
+  "sha256": "c51d59f92e125e8bdef60793e56dd57f6ce29d7118cdee54324ccad5a63968ae",
+  "sizeBytes": 35759964,
+  "notes": "Forge table gets a real 3D-rendered background: anvil, crucible and furnace glow with ember sparks, rendered in Blender and shaded for playfield readability. Smaller download - unused art removed from the pack."
 }
