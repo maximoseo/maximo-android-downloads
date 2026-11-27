@@ -1,9 +1,9 @@
 {
   "game": "pinball-forge",
-  "version": "2.14.0",
-  "versionCode": 29,
-  "apk": "pinball-forge-2.14.0.apk",
-  "sha256": "98835c087bdd968de92e73b93a7961c89c31a9d46c77b0c6c0b2f26fb5de960d",
-  "sizeBytes": 35776348,
-  "notes": "v2.14.0 - Fixed the constant screen shaking: nudges are now a quick short jolt instead of a 3-second tremor, plus a SCREEN SHAKE on/off toggle in OPTIONS. Ambient forge embers drift across the table. Android updates now happen INSIDE the game: tap UPDATE NOW and the new version downloads with a progress bar, verifies its checksum and opens the Android install prompt - no browser needed."
+  "version": "2.17.0",
+  "versionCode": 34,
+  "apk": "pinball-forge-2.17.0.apk",
+  "sha256": "968ba0ea32a1606e154fa670b72482ebf723043018844bb455332f91955a9ce7",
+  "sizeBytes": 35728251,
+  "notes": "v2.17.0 - Two new AI-art stages: SYNTHWAVE (neon grid sunset) and AURORA (polar night sky). 8 stage themes rotate per ball/restart. Includes v2.16.1 on-screen touch buttons, flipper glow and snappier gameplay."
 }
