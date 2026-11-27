@@ -1,9 +1,9 @@
 {
   "game": "pinball-forge",
-  "version": "2.16.0",
-  "versionCode": 32,
-  "apk": "pinball-forge-2.16.0.apk",
-  "sha256": "6e3e952da84634b80103332a94e68ee2bd3d14587bffe548400fd48fc9777d0c",
+  "version": "2.16.1",
+  "versionCode": 33,
+  "apk": "pinball-forge-2.16.1.apk",
+  "sha256": "3e0bf41fa101fa8eebb49db61738c5bbb84624697d63a0fd8a6693514cfebcbd",
   "sizeBytes": 35809745,
-  "notes": "v2.16.0 - On-screen game buttons: FLIP left/right, hold LAUNCH, NUDGE (large touch targets), pause moved to top. Graphics: active flipper glow, chrome ball specular highlight, pulsing mystery star. Gameplay: snappier wider flippers, stronger jackpot/multiball screen shake."
+  "notes": "v2.16.1 - On-screen FLIP/LAUNCH/NUDGE buttons (large touch targets), pause at top. Graphics: active flipper glow, chrome ball specular highlight, pulsing mystery star. Gameplay: snappier wider flippers, stronger jackpot/multiball shake. Fix: ball-save chip no longer overlaps NUDGE button."
 }
