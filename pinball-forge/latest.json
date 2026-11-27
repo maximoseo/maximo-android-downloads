@@ -1,9 +1,9 @@
 {
   "game": "pinball-forge",
-  "version": "2.16.1",
-  "versionCode": 33,
-  "apk": "pinball-forge-2.16.1.apk",
-  "sha256": "3e0bf41fa101fa8eebb49db61738c5bbb84624697d63a0fd8a6693514cfebcbd",
-  "sizeBytes": 35809745,
-  "notes": "v2.16.1 - On-screen FLIP/LAUNCH/NUDGE buttons (large touch targets), pause at top. Graphics: active flipper glow, chrome ball specular highlight, pulsing mystery star. Gameplay: snappier wider flippers, stronger jackpot/multiball shake. Fix: ball-save chip no longer overlaps NUDGE button."
+  "version": "2.14.0",
+  "versionCode": 29,
+  "apk": "pinball-forge-2.14.0.apk",
+  "sha256": "98835c087bdd968de92e73b93a7961c89c31a9d46c77b0c6c0b2f26fb5de960d",
+  "sizeBytes": 35776348,
+  "notes": "v2.14.0 - Fixed the constant screen shaking: nudges are now a quick short jolt instead of a 3-second tremor, plus a SCREEN SHAKE on/off toggle in OPTIONS. Ambient forge embers drift across the table. Android updates now happen INSIDE the game: tap UPDATE NOW and the new version downloads with a progress bar, verifies its checksum and opens the Android install prompt - no browser needed."
 }
