@@ -1,9 +1,9 @@
 {
   "game": "pinball-forge",
-  "version": "2.15.0",
-  "versionCode": 31,
-  "apk": "pinball-forge-2.15.0.apk",
-  "sha256": "b6ddd83b905d17c755b24cdefa8636c63e9cefc4c85b9e66555d67bf6a45d943",
-  "sizeBytes": 35780444,
-  "notes": "v2.15.0 - Graphics & gameplay juice: glowing ball halo + longer/brighter motion trail, bumper shockwave rings with stronger combo pops, slingshot spark feedback, snappier wider flipper swing, and full-screen gold/hot pulses on jackpot & multiball. Same great forge table."
+  "version": "2.16.0",
+  "versionCode": 32,
+  "apk": "pinball-forge-2.16.0.apk",
+  "sha256": "6e3e952da84634b80103332a94e68ee2bd3d14587bffe548400fd48fc9777d0c",
+  "sizeBytes": 35809745,
+  "notes": "v2.16.0 - On-screen game buttons: FLIP left/right, hold LAUNCH, NUDGE (large touch targets), pause moved to top. Graphics: active flipper glow, chrome ball specular highlight, pulsing mystery star. Gameplay: snappier wider flippers, stronger jackpot/multiball screen shake."
 }
