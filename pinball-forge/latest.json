@@ -1,9 +1,9 @@
 {
   "game": "pinball-forge",
-  "version": "2.14.1",
-  "versionCode": 30,
-  "apk": "pinball-forge-2.14.1.apk",
-  "sha256": "c49c3791311cec7f0ea175b06fb267122278cfe33508aece1b44186a931cf078",
-  "sizeBytes": 35776348,
-  "notes": "v2.14.1 - Smoother in-app updates: cancel the Android install prompt and the UPDATE button stays tappable so you can retry anytime; allow installs from unknown sources and the game retries the install automatically. Same great v2.14 table: quick short nudge jolt (no more constant shaking), SCREEN SHAKE toggle in OPTIONS, drifting forge embers."
+  "version": "2.15.0",
+  "versionCode": 31,
+  "apk": "pinball-forge-2.15.0.apk",
+  "sha256": "b6ddd83b905d17c755b24cdefa8636c63e9cefc4c85b9e66555d67bf6a45d943",
+  "sizeBytes": 35780444,
+  "notes": "v2.15.0 - Graphics & gameplay juice: glowing ball halo + longer/brighter motion trail, bumper shockwave rings with stronger combo pops, slingshot spark feedback, snappier wider flipper swing, and full-screen gold/hot pulses on jackpot & multiball. Same great forge table."
 }
